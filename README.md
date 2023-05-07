@@ -2,7 +2,7 @@
 This is  Google Data Analysis Professional Certificate case-study project which covers data about January 2021 to December 2021. Tools use in this project are Power Query ,Power BI and power point .
 ## About the Dataset
 This is case study about Cyclistic Bike-share company.The main Focus of the project is between January 2021 to December 2021 time perid to analysis that how Casual and Member riders use Cyclistic bike differently. 
-Here is the Link of Dataset which is use in this project https://divvy-tripdata.s3.amazonaws.com/index.html
+* Here is the Link of Dataset which is use in this project https://divvy-tripdata.s3.amazonaws.com/index.html
 ## System Use in Cyclistic-bike-share-analysis-
 * Power Query for data cleaning and data analysis by using DAX language
 * Power BI for data visulization
