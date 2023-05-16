@@ -2,6 +2,14 @@
 This is  Google Data Analysis Professional Certificate case-study project which covers data about January 2021 to December 2021. Tools use in this project are Power Query ,Power BI and power point .
 ## About the Project
 The bike sharing company wants to analyze their user data to find the main differences in behaviour between their two types of users, the “casual” who pays for each ride and the annual member who pays a yearly subscription to the service.
+#### According to Google ,their are six phases for analysis
+* Ask
+* Prepare
+* Process
+* Analyze
+* Share
+*  Act
+so we are doing our analysis according to these six phases.
 
 ## Phase 1:ASK
 #### Key Objectives
