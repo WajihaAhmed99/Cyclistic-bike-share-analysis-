@@ -1,5 +1,5 @@
 # Cyclistic-bike-share-analysis-
-This is  Google Data Analysis Professional Certificate case-study project which covers data about January 2021 to December 2021. Tools use in this project are Power Query and Power BI .
+This case study is part of the Google Data Analysis course. In this case, study we analyze data of Cyclistic Bike share company that want to see trends in their data that how different member of the company use their services, and after that we give a recommendation to the company on how they modify their marketing strategies. Power Query and Power BI are used for data analysis and visualization processes in this project.
 ## About the Project
 The bike sharing company wants to analyze their user data to find the main differences in behaviour between their two types of users, the “casual” who pays for each ride and the annual member who pays a yearly subscription to the service.
 #### According to Google ,their are six phases for analysis
